@@ -1,0 +1,569 @@
+@media screen and (max-width:1370px){
+.enlace-nav{margin-left:90px ;} 
+.enlace1-nav{margin-left:122px ;}  
+
+#perfil #perfil-titulo #h3-h4 h3{font-size: 300%;}
+#perfil #perfil-titulo #h3-h4 h4{font-size: 110%;}
+#perfil #perfil-titulo p{font-size:100% ; }
+#perfil #perfil-img-txt img{margin-left:25% ;margin-right: 15%;}
+#perfil #perfil-img-txt #datos h4{font-size: 130%;}
+#perfil #perfil-img-txt #datos ul li{font-size:88% ;}
+#perfil #perfil-img-txt #datos #iconos a #lkdn{width: 30px;height: 30px;margin-right: 33px;}
+#perfil #perfil-img-txt #datos #iconos a #git{width: 30px;height: 30px; margin-right:33px ;}
+#perfil #perfil-img-txt #datos #iconos a #insta{width:36px ;height: 33px;margin-right: 27px;}
+
+#educacion #educacion-titulo{width: 253px;}
+#educacion #educacion-titulo h3{font-size: 300%;}
+#educacion #educacion-titulo h4 { font-size: 110%; }
+#educacion #educacion-divs{margin-left: 30%;}
+#educacion #educacion-divs #educacion-primaria img {width: 26px;height: 26px;margin-right: 4%; }
+#educacion #educacion-divs #educacion-primaria .fecha{font-size: 90%;
+    height: 26px;padding: 2px ;margin-right:10% ;}
+#educacion #educacion-divs #educacion-primaria .titulo{font-size: 90%;
+        height: 26px;padding: 2px;margin-right:8% ;}
+#educacion #educacion-divs #educacion-primaria .info .info-titulo{font-size: 90%;}
+#educacion #educacion-divs #educacion-primaria .info .info-region{font-size: 90%;}
+
+#educacion #educacion-divs #educacion-secundaria img {width: 26px;height: 26px;margin-right: 4%; }
+#educacion #educacion-divs #educacion-secundaria .fecha{font-size: 90%;
+    height: 26px;padding: 2px;margin-right:10% ;}
+#educacion #educacion-divs #educacion-secundaria .titulo{font-size: 90%;
+        height: 26px;padding: 2px;margin-right:8% ;}
+#educacion #educacion-divs #educacion-secundaria .info .info-titulo{font-size: 90%;}
+#educacion #educacion-divs #educacion-secundaria .info .info-region{font-size: 90%;}
+#educacion #educacion-divs #educacion-secundaria .info .info-descripcion{font-size: 90%;}
+
+#educacion #educacion-divs #educacion-universitaria img {width: 26px;height: 26px;margin-right: 4%; }
+#educacion #educacion-divs #educacion-universitaria .fecha{font-size: 90%;
+    height: 26px;padding: 2px;border-radius:5% ;margin-right:10% ;}
+#educacion #educacion-divs #educacion-universitaria .titulo{font-size: 90%;
+        height: 26px;padding: 2px;margin-right:8% ;}
+#educacion #educacion-divs #educacion-universitaria .info .info-titulo{font-size: 90%;}
+#educacion #educacion-divs #educacion-universitaria .info .info-region{font-size: 90%;}
+#educacion #educacion-divs #educacion-universitaria .info .info-descripcion{font-size: 90%;}
+
+#educacion #educacion-divs #Programacion img {width: 26px;height: 26px;margin-right: 4%; }
+#educacion #educacion-divs #Programacion .fecha{font-size: 90%;
+    height: 26px;padding: 2px;border-radius:5% ;margin-right:10% }
+#educacion #educacion-divs #Programacion .titulo{font-size: 90%;
+        height: 26px;padding: 2px;margin-right:8% ;}
+#educacion #educacion-divs #Programacion .info .info-titulo{font-size: 90%;}
+#educacion #educacion-divs #Programacion .info .info-region{font-size: 90%;}
+#educacion #educacion-divs #Programacion .info .info-descripcion{font-size: 90%;}
+
+#habilidades #habilidades-titulo {width: 285px;}
+#habilidades #habilidades-titulo h3{font-size: 300%;}
+#habilidades #habilidades-titulo h4{font-size: 110%;}
+#habilidades #habilidades-div{display: flex;flex-direction: column;margin-left:15% ;}
+#habilidades #habilidades-div #html-css-javascript{display: flex;justify-content:space-evenly;margin-bottom: 5%;padding-right:6% ;}
+#habilidades #habilidades-div #html-css-javascript #html{display: flex;margin-left: 12%;width:122px;}
+#habilidades #habilidades-div #html-css-javascript #html img{width:24px ;height: 24px;margin-right:3% ;}
+#habilidades #habilidades-div #html-css-javascript #html p{font-size: 90%;font-weight: 400;}
+#habilidades #habilidades-div #html-css-javascript #css{display: flex;width: 122px;}
+#habilidades #habilidades-div #html-css-javascript #css img{width:24px ;height: 24px;margin-right: 3%;}
+#habilidades #habilidades-div #html-css-javascript #css p{font-size: 90%;font-weight: 400;}
+#habilidades #habilidades-div #html-css-javascript #javascript{display: flex;width: 122px;}
+#habilidades #habilidades-div #html-css-javascript #javascript img{width:24px ;height: 24px;margin-right: 3%;}
+#habilidades #habilidades-div #html-css-javascript #javascript p{font-size: 90%;font-weight: 400;}
+#habilidades #habilidades-div #github-bootstrap-react{display: flex;justify-content: space-evenly;padding-right: 6%;}
+#habilidades #habilidades-div #github-bootstrap-react #git{display: flex;width:122px ;margin-left: 12%;}
+#habilidades #habilidades-div #github-bootstrap-react #git img{width: 24px;height: 24px;margin-right: 3%;}
+#habilidades #habilidades-div #github-bootstrap-react #git p{font-size: 90%;font-weight: 400;}
+#habilidades #habilidades-div #github-bootstrap-react #bootstrap{display: flex;width: 122px;}
+#habilidades #habilidades-div #github-bootstrap-react #bootstrap img{width: 24px;height: 24px;margin-right: 3%;}
+#habilidades #habilidades-div #github-bootstrap-react #bootstrap p{font-size: 90%;font-weight: 400;}
+#habilidades #habilidades-div #github-bootstrap-react #react{display: flex;width: 122px;}
+#habilidades #habilidades-div #github-bootstrap-react #react img{width: 24px;height: 24px;margin-right: 3%;}
+#habilidades #habilidades-div #github-bootstrap-react #react p{font-size: 90%;font-weight: 400;}
+
+#servicios #servicios-titulo{margin-left: 10%;
+    padding-right: 1%;margin-bottom:8% ;width:306px;}
+#servicios #servicios-titulo h3{font-size: 300%; }
+
+#servicios #servicios-divs #desarrollo-seo #desarrollo {margin-left: 366px;margin-right: 88px;}
+#servicios #servicios-divs #desarrollo-seo #desarrollo img{width: 25px;height: 25px ;}
+#servicios #servicios-divs #desarrollo-seo #desarrollo .titulo-texto h4{font-size: 130%;}
+#servicios #servicios-divs #desarrollo-seo #desarrollo .titulo-texto p{font-size: 88%;}
+
+#servicios #servicios-divs #desarrollo-seo #seo img{width:25px ;height: 25px;} 
+#servicios #servicios-divs #desarrollo-seo #seo .titulo-texto h4{font-size: 130%;}
+#servicios #servicios-divs #desarrollo-seo #seo .titulo-texto p{font-size: 88%;}
+
+#servicios #servicios-divs #mantenimiento-responsivo #mantenimiento{margin-left: 366px;margin-right: 88px;}
+#servicios #servicios-divs #mantenimiento-responsivo #mantenimiento img{width: 25px;height: 25px;}
+#servicios #servicios-divs #mantenimiento-responsivo #mantenimiento .titulo-texto h4{font-size: 130%;}
+#servicios #servicios-divs #mantenimiento-responsivo #mantenimiento .titulo-texto p{font-size: 88%;}
+
+#servicios #servicios-divs #mantenimiento-responsivo #responsivo img{width: 25px;height: 25px;}
+#servicios #servicios-divs #mantenimiento-responsivo #responsivo .titulo-texto h4{font-size: 130%;}
+#servicios #servicios-divs #mantenimiento-responsivo #responsivo .titulo-texto p{font-size: 88%;}
+
+#servicios #servicios-divs #informativa-ecommerce #web-informativa{margin-left: 366px;margin-right: 88px;}
+#servicios #servicios-divs #informativa-ecommerce #web-informativa img{width: 25px;height: 25px;}
+#servicios #servicios-divs #informativa-ecommerce #web-informativa .titulo-texto h4{font-size: 130%;}
+#servicios #servicios-divs #informativa-ecommerce #web-informativa .titulo-texto p{font-size: 88%;}
+
+#servicios #servicios-divs #informativa-ecommerce #ecommerce img{width: 25px;height: 25px;}
+#servicios #servicios-divs #informativa-ecommerce #ecommerce .titulo-texto h4{font-size: 130%;}
+#servicios #servicios-divs #informativa-ecommerce #ecommerce .titulo-texto p{font-size: 88%;}
+
+
+}
+
+@media screen and (max-width:1180px){
+    .enlace-nav{margin-left:62px ;} 
+    .enlace1-nav{margin-left:122px ;}  
+    #portada #div-titulo #titulo h1{font-size:200% ; }
+    #portada #div-titulo #subtitulo h2{font-size:150% ;}
+        
+#perfil #perfil-titulo #h3-h4 h3{font-size: 250%;}
+#perfil #perfil-titulo #h3-h4 h4{font-size: 92%; }
+#perfil #perfil-titulo p{font-size:84% ; }
+#perfil #perfil-img-txt img{margin-left:25% ;margin-right: 10%;}
+#perfil #perfil-img-txt #datos h4{font-size: 108%;}
+#perfil #perfil-img-txt #datos ul li{font-size:73% ;}
+#perfil #perfil-img-txt #datos #iconos a #lkdn{width: 28px;height: 28px;margin-right: 33px;}
+#perfil #perfil-img-txt #datos #iconos a #git{width: 28px;height: 28px; margin-right:33px ;}
+#perfil #perfil-img-txt #datos #iconos a #insta{width:33px ;height: 30px;margin-right: 27px;}
+
+#educacion #educacion-titulo{width: 215px;}
+#educacion #educacion-titulo h3{font-size: 250%;}
+#educacion #educacion-titulo h4 { font-size: 92%; }
+#educacion #educacion-divs #educacion-primaria img {width: 24px;height: 24px;margin-right: 4%; }
+#educacion #educacion-divs #educacion-primaria .fecha{font-size: 84%;
+    height: 24px;padding: 2px ;margin-right:10% ;}
+#educacion #educacion-divs #educacion-primaria .titulo{font-size: 84%;
+        height: 24px;padding: 2px;margin-right:8% ;}
+#educacion #educacion-divs #educacion-primaria .info .info-titulo{font-size: 84%;}
+#educacion #educacion-divs #educacion-primaria .info .info-region{font-size: 84%;}
+
+#educacion #educacion-divs #educacion-secundaria img {width: 24px;height: 24px;margin-right: 4%; }
+#educacion #educacion-divs #educacion-secundaria .fecha{font-size: 84%;
+    height: 24px;padding: 2px;margin-right:10% ;}
+#educacion #educacion-divs #educacion-secundaria .titulo{font-size: 84%;
+        height: 24px;padding: 2px;margin-right:8% ;}
+#educacion #educacion-divs #educacion-secundaria .info .info-titulo{font-size: 84%;}
+#educacion #educacion-divs #educacion-secundaria .info .info-region{font-size: 84%;}
+#educacion #educacion-divs #educacion-secundaria .info .info-descripcion{font-size: 84%;}
+
+#educacion #educacion-divs #educacion-universitaria img {width: 24px;height: 24px;margin-right: 4%; }
+#educacion #educacion-divs #educacion-universitaria .fecha{font-size: 84%;
+    height: 24px;padding: 2px ;margin-right:10% ;}
+#educacion #educacion-divs #educacion-universitaria .titulo{font-size: 84%;
+        height: 24px;padding: 2px;margin-right:8% ;}
+#educacion #educacion-divs #educacion-universitaria .info .info-titulo{font-size: 84%;}
+#educacion #educacion-divs #educacion-universitaria .info .info-region{font-size: 84%;}
+#educacion #educacion-divs #educacion-universitaria .info .info-descripcion{font-size: 84%;}
+
+#educacion #educacion-divs #Programacion img {width: 24px;height: 24px;margin-right: 4%; }
+#educacion #educacion-divs #Programacion .fecha{font-size: 84%;
+    height: 24px;padding: 2px;margin-right:10% }
+#educacion #educacion-divs #Programacion .titulo{font-size: 84%;
+        height: 24px;padding: 2px;margin-right:8% ;}
+#educacion #educacion-divs #Programacion .info .info-titulo{font-size: 84%;}
+#educacion #educacion-divs #Programacion .info .info-region{font-size: 84%;}
+#educacion #educacion-divs #Programacion .info .info-descripcion{font-size: 84%;}
+
+#habilidades #habilidades-titulo {width: 242px;}
+#habilidades #habilidades-titulo h3{font-size: 250%;}
+#habilidades #habilidades-titulo h4{font-size: 92%;}
+#habilidades #habilidades-div{display: flex;flex-direction: column;margin-left:20% ;}
+#habilidades #habilidades-div #html-css-javascript{display: flex;justify-content:space-evenly;margin-bottom: 5%;padding-right:6% ;}
+#habilidades #habilidades-div #html-css-javascript #html{display: flex;margin-left:15%;width:122px;}
+#habilidades #habilidades-div #html-css-javascript #html img{width:21px ;height: 21px;margin-right:3% ;}
+#habilidades #habilidades-div #html-css-javascript #html p{font-size: 84%;font-weight: 400;}
+#habilidades #habilidades-div #html-css-javascript #css{display: flex;width: 122px;}
+#habilidades #habilidades-div #html-css-javascript #css img{width:21px ;height: 21px;margin-right: 3%;}
+#habilidades #habilidades-div #html-css-javascript #css p{font-size: 84%;font-weight: 400;}
+#habilidades #habilidades-div #html-css-javascript #javascript{display: flex;width: 122px;}
+#habilidades #habilidades-div #html-css-javascript #javascript img{width:21px ;height: 21px;margin-right: 3%;}
+#habilidades #habilidades-div #html-css-javascript #javascript p{font-size: 84%;font-weight: 400;}
+#habilidades #habilidades-div #github-bootstrap-react{display: flex;justify-content: space-evenly;padding-right: 6%;}
+#habilidades #habilidades-div #github-bootstrap-react #git{display: flex;width:122px ;margin-left: 15%;}
+#habilidades #habilidades-div #github-bootstrap-react #git img{width: 21px;height: 21px;margin-right: 3%;}
+#habilidades #habilidades-div #github-bootstrap-react #git p{font-size: 84%;font-weight: 400;}
+#habilidades #habilidades-div #github-bootstrap-react #bootstrap{display: flex;width: 122px;}
+#habilidades #habilidades-div #github-bootstrap-react #bootstrap img{width: 21px;height: 21px;margin-right: 3%;}
+#habilidades #habilidades-div #github-bootstrap-react #bootstrap p{font-size: 84%;font-weight: 400;}
+#habilidades #habilidades-div #github-bootstrap-react #react{display: flex;width: 122px;}
+#habilidades #habilidades-div #github-bootstrap-react #react img{width: 21px;height: 21px;margin-right: 3%;}
+#habilidades #habilidades-div #github-bootstrap-react #react p{font-size: 84%;font-weight: 400;}
+
+#servicios #servicios-titulo{width:261px;}
+#servicios #servicios-titulo h3{font-size: 250%; }
+
+#servicios #servicios-divs #desarrollo-seo #desarrollo{width: 260px;}
+#servicios #servicios-divs #desarrollo-seo #desarrollo img{width: 22px;height: 22px ;}
+#servicios #servicios-divs #desarrollo-seo #desarrollo .titulo-texto h4{font-size: 108%;}
+#servicios #servicios-divs #desarrollo-seo #desarrollo .titulo-texto p{font-size: 73%;}
+
+#servicios #servicios-divs #desarrollo-seo #seo{width: 260px;}
+#servicios #servicios-divs #desarrollo-seo #seo img{width:22px ;height: 22px;} 
+#servicios #servicios-divs #desarrollo-seo #seo .titulo-texto h4{font-size: 108%;}
+#servicios #servicios-divs #desarrollo-seo #seo .titulo-texto p{font-size: 73%;}
+
+#servicios #servicios-divs #mantenimiento-responsivo #mantenimiento{width: 260px;}
+#servicios #servicios-divs #mantenimiento-responsivo #mantenimiento img{width: 22px;height: 22px;}
+#servicios #servicios-divs #mantenimiento-responsivo #mantenimiento .titulo-texto h4{font-size: 108%;}
+#servicios #servicios-divs #mantenimiento-responsivo #mantenimiento .titulo-texto p{font-size: 73%;}
+
+#servicios #servicios-divs #mantenimiento-responsivo #responsivo{width: 260px;}
+#servicios #servicios-divs #mantenimiento-responsivo #responsivo img{width: 22px;height: 22px;}
+#servicios #servicios-divs #mantenimiento-responsivo #responsivo .titulo-texto h4{font-size: 108%;}
+#servicios #servicios-divs #mantenimiento-responsivo #responsivo .titulo-texto p{font-size: 73%;}
+
+#servicios #servicios-divs #informativa-ecommerce #web-informativa {width: 260px;}
+#servicios #servicios-divs #informativa-ecommerce #web-informativa img{width: 22px;height: 22px;}
+#servicios #servicios-divs #informativa-ecommerce #web-informativa .titulo-texto h4{font-size: 108%;}
+#servicios #servicios-divs #informativa-ecommerce #web-informativa .titulo-texto p{font-size: 73%;}
+
+#servicios #servicios-divs #informativa-ecommerce #ecommerce{width: 260px;}
+#servicios #servicios-divs #informativa-ecommerce #ecommerce img{width: 22px;height: 22px;}
+#servicios #servicios-divs #informativa-ecommerce #ecommerce .titulo-texto h4{font-size: 108%;}
+#servicios #servicios-divs #informativa-ecommerce #ecommerce .titulo-texto p{font-size: 73%;}
+
+
+}
+    
+    @media screen and (max-width:992px){
+.enlace1-nav{margin-left: 70px;}
+.enlace-nav{margin-left:70px ;}
+
+#servicios #servicios-divs #desarrollo-seo #desarrollo{margin-left:350px ;margin-right:45px;}
+#servicios #servicios-divs #mantenimiento-responsivo #mantenimiento{margin-left: 350px;margin-right: 45px;}
+#servicios #servicios-divs #informativa-ecommerce #web-informativa {margin-left: 350px;margin-right:45px;}
+
+
+    }
+
+    @media screen and (max-width:950px){
+
+        #portada{height: 660px;}
+        #portada #div-titulo #titulo h1{font-size:150% ; }
+    #portada #div-titulo #subtitulo h2{font-size:100% ;}
+
+    #perfil #perfil-titulo #h3-h4 h3{font-size: 200%;}
+#perfil #perfil-titulo #h3-h4 h4{font-size: 74%; }
+#perfil #perfil-titulo p{font-size:68% ; }
+#perfil #perfil-img-txt img{margin-left:25% ;margin-right: 10%;}
+#perfil #perfil-img-txt #datos h4{font-size: 87%;}
+#perfil #perfil-img-txt #datos ul li{font-size:59% ;}
+#perfil #perfil-img-txt #datos #iconos a #lkdn{width: 26px;height: 26px;margin-right: 33px;}
+#perfil #perfil-img-txt #datos #iconos a #git{width: 26px;height: 26px; margin-right:33px ;}
+#perfil #perfil-img-txt #datos #iconos a #insta{width:30px ;height: 28px;margin-right: 27px;}
+
+#educacion #educacion-titulo{width: 175px;}
+#educacion #educacion-titulo h3{font-size: 200%;}
+#educacion #educacion-titulo h4 { font-size: 74%; }
+#educacion #educacion-divs #educacion-primaria img {width: 22px;height: 22px;margin-right: 4%; }
+#educacion #educacion-divs #educacion-primaria .fecha{font-size: 68%;
+    height: 22px;padding: 2px ;margin-right:10% ;}
+#educacion #educacion-divs #educacion-primaria .titulo{font-size: 68%;
+        height: 22px;padding: 2px;margin-right:8% ;}
+#educacion #educacion-divs #educacion-primaria .info .info-titulo{font-size: 68%;}
+#educacion #educacion-divs #educacion-primaria .info .info-region{font-size: 68%;}
+
+#educacion #educacion-divs #educacion-secundaria img {width: 22px;height: 22px;margin-right: 4%; }
+#educacion #educacion-divs #educacion-secundaria .fecha{font-size: 68%;
+    height: 22px;padding: 2px;margin-right:10% ;}
+#educacion #educacion-divs #educacion-secundaria .titulo{font-size: 68%;
+        height: 22px;padding: 2px;margin-right:8% ;}
+#educacion #educacion-divs #educacion-secundaria .info .info-titulo{font-size: 68%;}
+#educacion #educacion-divs #educacion-secundaria .info .info-region{font-size: 68%;}
+#educacion #educacion-divs #educacion-secundaria .info .info-descripcion{font-size: 68%;}
+
+#educacion #educacion-divs #educacion-universitaria img {width: 22px;height: 22px;margin-right: 4%; }
+#educacion #educacion-divs #educacion-universitaria .fecha{font-size: 68%;
+    height: 22px;padding: 2px ;margin-right:10% ;}
+#educacion #educacion-divs #educacion-universitaria .titulo{font-size: 68%;
+        height: 22px;padding: 2px;margin-right:8% ;}
+#educacion #educacion-divs #educacion-universitaria .info .info-titulo{font-size: 68%;}
+#educacion #educacion-divs #educacion-universitaria .info .info-region{font-size: 68%;}
+#educacion #educacion-divs #educacion-universitaria .info .info-descripcion{font-size: 68%;}
+
+#educacion #educacion-divs #Programacion img {width: 22px;height: 22px;margin-right: 4%; }
+#educacion #educacion-divs #Programacion .fecha{font-size: 68%;
+    height: 22px;padding: 2px;margin-right:10% }
+#educacion #educacion-divs #Programacion .titulo{font-size: 68%;
+        height: 22px;padding: 2px;margin-right:8% ;}
+#educacion #educacion-divs #Programacion .info .info-titulo{font-size: 68%;}
+#educacion #educacion-divs #Programacion .info .info-region{font-size: 68%;}
+#educacion #educacion-divs #Programacion .info .info-descripcion{font-size: 68%;}
+
+#habilidades #habilidades-titulo {width:198px;}
+#habilidades #habilidades-titulo h3{font-size: 200%;}
+#habilidades #habilidades-titulo h4{font-size: 74%;}
+#habilidades #habilidades-div{display: flex;flex-direction: column;margin-left:20% ;}
+#habilidades #habilidades-div #html-css-javascript{display: flex;justify-content:space-evenly;margin-bottom: 5%;padding-right:6% ;}
+#habilidades #habilidades-div #html-css-javascript #html{display: flex;margin-left:17%;width:122px;}
+#habilidades #habilidades-div #html-css-javascript #html img{width:18px ;height: 18px;margin-right:3% ;}
+#habilidades #habilidades-div #html-css-javascript #html p{font-size: 68%;font-weight: 400;}
+#habilidades #habilidades-div #html-css-javascript #css{display: flex;width: 122px;}
+#habilidades #habilidades-div #html-css-javascript #css img{width:18px ;height: 18px;margin-right: 3%;}
+#habilidades #habilidades-div #html-css-javascript #css p{font-size: 68%;font-weight: 400;}
+#habilidades #habilidades-div #html-css-javascript #javascript{display: flex;width: 122px;}
+#habilidades #habilidades-div #html-css-javascript #javascript img{width:18px ;height: 18px;margin-right: 3%;}
+#habilidades #habilidades-div #html-css-javascript #javascript p{font-size: 68%;font-weight: 400;}
+#habilidades #habilidades-div #github-bootstrap-react{display: flex;justify-content: space-evenly;padding-right: 6%;}
+#habilidades #habilidades-div #github-bootstrap-react #git{display: flex;width:122px ;margin-left: 17%;}
+#habilidades #habilidades-div #github-bootstrap-react #git img{width: 18px;height: 18px;margin-right: 3%;}
+#habilidades #habilidades-div #github-bootstrap-react #git p{font-size: 68%;font-weight: 400;}
+#habilidades #habilidades-div #github-bootstrap-react #bootstrap{display: flex;width: 122px;}
+#habilidades #habilidades-div #github-bootstrap-react #bootstrap img{width: 18px;height: 18px;margin-right: 3%;}
+#habilidades #habilidades-div #github-bootstrap-react #bootstrap p{font-size: 68%;font-weight: 400;}
+#habilidades #habilidades-div #github-bootstrap-react #react{display: flex;width: 122px;}
+#habilidades #habilidades-div #github-bootstrap-react #react img{width: 18px;height: 18px;margin-right: 3%;}
+#habilidades #habilidades-div #github-bootstrap-react #react p{font-size: 68%;font-weight: 400;}
+
+#servicios #servicios-titulo{width:211px;}
+#servicios #servicios-titulo h3{font-size: 200%; }
+
+#servicios #servicios-divs #desarrollo-seo #desarrollo{width: 255px;margin-left: 275px;margin-right: 0;}
+#servicios #servicios-divs #desarrollo-seo #desarrollo img{width: 18px;height: 18px ;}
+#servicios #servicios-divs #desarrollo-seo #desarrollo .titulo-texto h4{font-size: 87%;}
+#servicios #servicios-divs #desarrollo-seo #desarrollo .titulo-texto p{font-size: 59%;}
+
+#servicios #servicios-divs #desarrollo-seo #seo{width: 255px;}
+#servicios #servicios-divs #desarrollo-seo #seo img{width:18px ;height: 18px;} 
+#servicios #servicios-divs #desarrollo-seo #seo .titulo-texto h4{font-size: 87%;}
+#servicios #servicios-divs #desarrollo-seo #seo .titulo-texto p{font-size: 59%;}
+
+#servicios #servicios-divs #mantenimiento-responsivo #mantenimiento{width: 255px;margin-left: 275px;margin-right: 0;}
+#servicios #servicios-divs #mantenimiento-responsivo #mantenimiento img{width: 18px;height: 18px;}
+#servicios #servicios-divs #mantenimiento-responsivo #mantenimiento .titulo-texto h4{font-size: 87%;}
+#servicios #servicios-divs #mantenimiento-responsivo #mantenimiento .titulo-texto p{font-size: 59%;}
+
+#servicios #servicios-divs #mantenimiento-responsivo #responsivo{width: 255px;}
+#servicios #servicios-divs #mantenimiento-responsivo #responsivo img{width: 18px;height: 18px;}
+#servicios #servicios-divs #mantenimiento-responsivo #responsivo .titulo-texto h4{font-size:87%;}
+#servicios #servicios-divs #mantenimiento-responsivo #responsivo .titulo-texto p{font-size: 59%;}
+
+#servicios #servicios-divs #informativa-ecommerce #web-informativa {width: 255px;margin-left: 275px;margin-right: 0;}
+#servicios #servicios-divs #informativa-ecommerce #web-informativa img{width: 18px;height: 18px;}
+#servicios #servicios-divs #informativa-ecommerce #web-informativa .titulo-texto h4{font-size: 87%;}
+#servicios #servicios-divs #informativa-ecommerce #web-informativa .titulo-texto p{font-size: 59%;}
+
+#servicios #servicios-divs #informativa-ecommerce #ecommerce{width: 255px;}
+#servicios #servicios-divs #informativa-ecommerce #ecommerce img{width: 18px;height: 18px;}
+#servicios #servicios-divs #informativa-ecommerce #ecommerce .titulo-texto h4{font-size: 87%;}
+#servicios #servicios-divs #informativa-ecommerce #ecommerce .titulo-texto p{font-size: 59%;}
+}
+
+    
+    @media screen and (max-width:840px){
+        #portada #div-titulo #titulo{padding:5px ;}
+        #portada #div-titulo #subtitulo{padding:2px ;}
+        #perfil #perfil-img-txt img{margin-left:26% ;margin-right: 8%;}
+
+        #educacion #educacion-divs{margin-left: 30%;}
+        #educacion #educacion-divs #educacion-primaria img {width: 20px;height: 20px;margin-right: 4%; }
+#educacion #educacion-divs #educacion-primaria .fecha{font-size: 59%;
+    height: 18px;padding: 2px ;margin-right:10% ;}
+#educacion #educacion-divs #educacion-primaria .titulo{font-size: 59%;
+        height: 18px;padding: 2px;margin-right:8% ;}
+#educacion #educacion-divs #educacion-primaria .info .info-titulo{font-size: 59%;}
+#educacion #educacion-divs #educacion-primaria .info .info-region{font-size: 59%;}
+
+#educacion #educacion-divs #educacion-secundaria img {width: 20px;height: 20px;margin-right: 4%; }
+#educacion #educacion-divs #educacion-secundaria .fecha{font-size: 59%;
+    height: 18px;padding: 2px;margin-right:10% ;}
+#educacion #educacion-divs #educacion-secundaria .titulo{font-size: 59%;
+        height: 18px;padding: 2px;margin-right:8% ;}
+#educacion #educacion-divs #educacion-secundaria .info .info-titulo{font-size: 59%;}
+#educacion #educacion-divs #educacion-secundaria .info .info-region{font-size: 59%;}
+#educacion #educacion-divs #educacion-secundaria .info .info-descripcion{font-size: 59%;}
+
+#educacion #educacion-divs #educacion-universitaria img {width: 20px;height: 20px;margin-right: 4%; }
+#educacion #educacion-divs #educacion-universitaria .fecha{font-size: 59%;
+    height: 18px;padding: 2px ;margin-right:10% ;}
+#educacion #educacion-divs #educacion-universitaria .titulo{font-size: 59%;
+        height: 18px;padding: 2px;margin-right:8% ;}
+#educacion #educacion-divs #educacion-universitaria .info .info-titulo{font-size: 59%;}
+#educacion #educacion-divs #educacion-universitaria .info .info-region{font-size: 59%;}
+#educacion #educacion-divs #educacion-universitaria .info .info-descripcion{font-size: 59%;}
+
+#educacion #educacion-divs #Programacion img {width: 20px;height: 20px;margin-right: 4%; }
+#educacion #educacion-divs #Programacion .fecha{font-size: 59%;
+    height: 18px;padding: 2px;margin-right:10% }
+#educacion #educacion-divs #Programacion .titulo{font-size: 59%;
+        height: 18px;padding: 2px;margin-right:8% ;}
+#educacion #educacion-divs #Programacion .info .info-titulo{font-size: 59%;}
+#educacion #educacion-divs #Programacion .info .info-region{font-size: 59%;}
+#educacion #educacion-divs #Programacion .info .info-descripcion{font-size: 59%;}
+
+#servicios #servicios-divs #desarrollo-seo #desarrollo{margin-left: 222px;}
+#servicios #servicios-divs #mantenimiento-responsivo #mantenimiento{margin-left: 222px;}
+#servicios #servicios-divs #informativa-ecommerce #web-informativa {margin-left: 222px;}
+    }
+
+
+    @media screen and (max-width:750px){
+
+        #portada{height: 550px;}
+        #portada #div-titulo #titulo h1{font-size:130% ; }
+        #portada #div-titulo #subtitulo h2{font-size:80% ;}
+
+        #educacion #educacion-titulo{border:white}
+
+        #educacion #educacion-divs{margin-left:20% ;margin-top:3% ;}
+
+        #habilidades #habilidades-titulo{border: white;}
+        #habilidades #habilidades-div{margin-left:18% ;margin-top:3% ;}
+        #habilidades #habilidades-div #html-css-javascript #html{margin-left:3%;width:122px;}
+        #habilidades #habilidades-div #github-bootstrap-react #git{width:122px ;margin-left: 3%;}
+
+        #servicios #servicios-titulo{border: white;}
+        #servicios #servicios-divs #desarrollo-seo #desarrollo{margin-left: 144px;}
+        #servicios #servicios-divs #mantenimiento-responsivo #mantenimiento{margin-left: 144px;}
+        #servicios #servicios-divs #informativa-ecommerce #web-informativa {margin-left: 144px;}
+        
+        #footer-iconos #iconos-footer a {margin-left: 18%;}
+    }
+
+    @media screen and (max-width:690px){
+        #portada{height: 500px;}
+        #portada #div-titulo{left: 36.4%;}
+
+        #servicios #servicios-divs #desarrollo-seo #desarrollo{margin-left: 77px;}
+        #servicios #servicios-divs #mantenimiento-responsivo #mantenimiento{margin-left: 77px;}
+        #servicios #servicios-divs #informativa-ecommerce #web-informativa {margin-left: 77px;}
+
+    }
+
+    @media screen and (max-width:600px){
+
+        #portada{height: 440px;}
+        #portada #div-titulo #titulo{padding:5px ;}
+        #portada #div-titulo #subtitulo{padding:2px ;}
+    
+        #perfil #perfil-titulo #h3-h4 h3{font-size: 160%;}
+        #perfil #perfil-titulo #h3-h4 h4{font-size: 60%; }
+        #perfil #perfil-titulo p{font-size:55% ; }
+
+        #perfil #perfil-img-txt{display: flex;flex-direction: column; justify-content: center;align-items: center;}
+        #perfil #perfil-img-txt img{width:30% ;height: 30%;margin-left:15% ;}
+        #perfil #perfil-img-txt #datos{margin-top: 5%;margin-left:10% ;}
+        #perfil #perfil-img-txt #datos h4{font-size: 70%;}
+        #perfil #perfil-img-txt #datos ul li{font-size:55% ;}
+        #perfil #perfil-img-txt #datos #iconos a #lkdn{width: 24px;height: 24px;margin-right: 30px;}
+        #perfil #perfil-img-txt #datos #iconos a #git{width: 24px;height: 24px; margin-right:30px ;}
+        #perfil #perfil-img-txt #datos #iconos a #insta{width:28px ;height: 26px;margin-right: 27px;}
+
+        #educacion #educacion-titulo{width: 133px;}
+        #educacion #educacion-titulo h3{font-size: 160%;}
+        #educacion #educacion-titulo h4 { font-size: 60%; }
+        #educacion #educacion-divs{margin-left:8% ;}
+        #educacion #educacion-divs #educacion-primaria img {display: none;}
+        #educacion #educacion-divs #educacion-secundaria img {display: none;}
+        #educacion #educacion-divs #educacion-universitaria img {display: none;}
+        #educacion #educacion-divs #Programacion img {display: none;}
+
+        #servicios #servicios-divs #desarrollo-seo{flex-direction: column;margin-bottom:11px ;}
+        #servicios #servicios-divs #desarrollo-seo #desarrollo{margin-left: 200px;margin-bottom: 11px;}
+        #servicios #servicios-divs #desarrollo-seo #seo{margin-left: 200px;}
+
+        #servicios #servicios-divs #mantenimiento-responsivo{flex-direction: column;margin-bottom: 11px;}
+        #servicios #servicios-divs #mantenimiento-responsivo #mantenimiento{margin-left: 200px;margin-bottom: 11px;}
+        #servicios #servicios-divs #mantenimiento-responsivo #responsivo{margin-left: 200px;}
+
+        #servicios #servicios-divs #informativa-ecommerce {flex-direction: column;margin-bottom: 11px;}
+        #servicios #servicios-divs #informativa-ecommerce #web-informativa{margin-left: 200px;margin-bottom: 11px;}
+        #servicios #servicios-divs #informativa-ecommerce #ecommerce{margin-left: 200px;}
+        
+        
+        #iconos-footer a {margin-left:11px;}
+}
+
+    @media screen and (max-width:500px){
+
+        #portada #div-titulo{left: 35%;}
+
+        #educacion #educacion-divs{margin-left:22% ;}
+        #educacion #educacion-divs #educacion-primaria .fecha{display: none;}
+        #educacion #educacion-divs #educacion-secundaria .fecha{display: none;}
+        #educacion #educacion-divs #educacion-universitaria .fecha{display: none;}
+        #educacion #educacion-divs #Programacion .fecha{display: none;}
+        #educacion #educacion-divs #educacion-primaria .titulo{margin-right:4% ;}
+        #educacion #educacion-divs #educacion-secundaria .titulo{margin-right:4% ;}
+        #educacion #educacion-divs #educacion-universitaria .titulo{margin-right:4% ;}
+        #educacion #educacion-divs #Programacion .titulo{margin-right:4% ;}
+
+        #habilidades #habilidades-div{display: flex;flex-direction: column;margin-left:20% ;}
+        #habilidades #habilidades-div #html-css-javascript{display: flex;justify-content:space-evenly;margin-bottom: 5%;padding-right:6% ;}
+        #habilidades #habilidades-div #html-css-javascript #html{display: flex;width:122px;}
+        #habilidades #habilidades-div #html-css-javascript #html img{width:15px ;height: 15px;margin-right:3% ;}
+        #habilidades #habilidades-div #html-css-javascript #html p{font-size: 59%;font-weight: 400;}
+        #habilidades #habilidades-div #html-css-javascript #css{display: flex;width: 122px;}
+        #habilidades #habilidades-div #html-css-javascript #css img{width:15px ;height: 15px;margin-right: 3%;}
+        #habilidades #habilidades-div #html-css-javascript #css p{font-size: 59%;font-weight: 400;}
+        #habilidades #habilidades-div #html-css-javascript #javascript{display: flex;width: 122px;}
+        #habilidades #habilidades-div #html-css-javascript #javascript img{width:15px ;height: 15px;margin-right: 3%;}
+        #habilidades #habilidades-div #html-css-javascript #javascript p{font-size: 59%;font-weight: 400;}
+        #habilidades #habilidades-div #github-bootstrap-react{display: flex;justify-content: space-evenly;padding-right: 6%;}
+        #habilidades #habilidades-div #github-bootstrap-react #git{display: flex;width:122px ;}
+        #habilidades #habilidades-div #github-bootstrap-react #git img{width: 15px;height: 15px;margin-right: 3%;}
+        #habilidades #habilidades-div #github-bootstrap-react #git p{font-size: 59%;font-weight: 400;}
+        #habilidades #habilidades-div #github-bootstrap-react #bootstrap{display: flex;width: 122px;}
+        #habilidades #habilidades-div #github-bootstrap-react #bootstrap img{width: 15px;height: 15px;margin-right: 3%;}
+        #habilidades #habilidades-div #github-bootstrap-react #bootstrap p{font-size: 59%;font-weight: 400;}
+        #habilidades #habilidades-div #github-bootstrap-react #react{display: flex;width: 122px;}
+        #habilidades #habilidades-div #github-bootstrap-react #react img{width: 15px;height: 15px;margin-right: 3%;}
+        #habilidades #habilidades-div #github-bootstrap-react #react p{font-size:59%;font-weight: 400;}
+
+        #servicios #servicios-divs #desarrollo-seo{flex-direction: column;margin-bottom:11px ;}
+        #servicios #servicios-divs #desarrollo-seo #desarrollo{margin-left: 155px;margin-bottom: 11px;}
+        #servicios #servicios-divs #desarrollo-seo #seo{margin-left: 155px;}
+
+        #servicios #servicios-divs #mantenimiento-responsivo{flex-direction: column;margin-bottom: 11px;}
+        #servicios #servicios-divs #mantenimiento-responsivo #mantenimiento{margin-left: 155px;margin-bottom: 11px;}
+        #servicios #servicios-divs #mantenimiento-responsivo #responsivo{margin-left: 155px;}
+
+        #servicios #servicios-divs #informativa-ecommerce {flex-direction: column;margin-bottom: 11px;}
+        #servicios #servicios-divs #informativa-ecommerce #web-informativa{margin-left: 155px;margin-bottom: 11px;}
+        #servicios #servicios-divs #informativa-ecommerce #ecommerce{margin-left: 155px;}
+
+        #footer-iconos #iconos-footer a {margin-left: 16%;}
+       #footer-iconos #iconos-footer a img{width: 33px;height: 33px;}
+       #whatsapp a img{width: 36px;height: 36px;}
+    }
+
+    @media screen and (max-width:440px){
+        #portada{height: 350px;}
+        #portada #div-titulo{left: 32.5%;}
+        #portada #div-titulo #titulo{padding:2px ;}
+        #portada #div-titulo #subtitulo{padding:1.3px ;}
+        #portada #div-titulo #titulo h1{font-size:100% ; }
+        #portada #div-titulo #subtitulo h2{font-size:65% ;}
+        #perfil #perfil-titulo{padding-right:1% ;margin-right:2% ;}
+        #perfil #perfil-titulo p{ margin-left: 2% ;}
+
+        #educacion #educacion-divs{margin-top:5% ;margin-left:28% ;}
+        #educacion #educacion-divs #educacion-primaria .titulo{display: none;}
+        #educacion #educacion-divs #educacion-secundaria .titulo{display: none;}
+        #educacion #educacion-divs #educacion-universitaria .titulo{display: none;}
+        #educacion #educacion-divs #Programacion .titulo{display: none;}
+
+        #servicios #servicios-divs #desarrollo-seo{flex-direction: column;margin-bottom:11px ;}
+        #servicios #servicios-divs #desarrollo-seo #desarrollo{margin-left: 60px;margin-bottom: 11px;}
+        #servicios #servicios-divs #desarrollo-seo #seo{margin-left: 60px;}
+
+        #servicios #servicios-divs #mantenimiento-responsivo{flex-direction: column;margin-bottom: 11px;}
+        #servicios #servicios-divs #mantenimiento-responsivo #mantenimiento{margin-left: 60px;margin-bottom: 11px;}
+        #servicios #servicios-divs #mantenimiento-responsivo #responsivo{margin-left: 60px;}
+
+        #servicios #servicios-divs #informativa-ecommerce {flex-direction: column;margin-bottom: 11px;}
+        #servicios #servicios-divs #informativa-ecommerce #web-informativa{margin-left: 60px;margin-bottom: 11px;}
+        #servicios #servicios-divs #informativa-ecommerce #ecommerce{margin-left: 60px;}
+        
+        #footer-iconos #iconos-footer a {margin-left: 14%;}
+
+    }
+
+
+    @media screen and (max-width:400px){
+        #portada{height: 300px;}
+
+        #footer-iconos #iconos-footer a {margin-left: 13%;}
+        #footer-txt h3{font-size:66% ;color: white;}
+
+    }
